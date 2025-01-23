@@ -1,8 +1,5 @@
 # text_ocr_detetction
-This repo contains gradio app for detecting text using OCR
-
-
-![image](https://github.com/user-attachments/assets/4e5490fc-f6d3-49c6-8b87-ae0cfc2afc3c)
+This repo contains gradio app for detecting text using EasyOCR
 
 
 ### Mermaid Workflow Diagram
@@ -112,5 +109,20 @@ pip install opencv-python easyocr gradio pandas numpy
 - **GPU Acceleration**: Enable GPU acceleration for faster processing by setting `gpu=True` in the EasyOCR reader.
 
 ---
+
+Input Image
+
+
+![image](https://github.com/user-attachments/assets/f5f14029-2b3f-4c46-adff-13b0f5610a2a)
+
+Output Image
+
+![image](https://github.com/user-attachments/assets/6e33080e-94b8-4dd4-bb27-63e92de4d6c2)
+
+---
+
+Gradio APP
+![image](https://github.com/user-attachments/assets/4e5490fc-f6d3-49c6-8b87-ae0cfc2afc3c)
+
 
 Feel free to expand this project by incorporating additional features such as multiple language support or batch processing of images!
