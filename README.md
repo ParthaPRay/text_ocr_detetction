@@ -125,4 +125,12 @@ Gradio APP
 ![image](https://github.com/user-attachments/assets/4e5490fc-f6d3-49c6-8b87-ae0cfc2afc3c)
 
 
+---
+
+#### **LLM Integration** 
+
+Later I will enabled localized LLM with the text output from this application.
+
+---
+
 Feel free to expand this project by incorporating additional features such as multiple language support or batch processing of images!
